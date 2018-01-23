@@ -1,0 +1,8 @@
+C:\Users\Piotr\source\repos\TestF\Sort\bin\Debug\netcoreapp2.0\Sort.deps.json
+C:\Users\Piotr\source\repos\TestF\Sort\bin\Debug\netcoreapp2.0\Sort.runtimeconfig.json
+C:\Users\Piotr\source\repos\TestF\Sort\bin\Debug\netcoreapp2.0\Sort.runtimeconfig.dev.json
+C:\Users\Piotr\source\repos\TestF\Sort\bin\Debug\netcoreapp2.0\Sort.dll
+C:\Users\Piotr\source\repos\TestF\Sort\bin\Debug\netcoreapp2.0\Sort.pdb
+C:\Users\Piotr\source\repos\TestF\Sort\obj\Debug\netcoreapp2.0\Sort.dll
+C:\Users\Piotr\source\repos\TestF\Sort\obj\Debug\netcoreapp2.0\Sort.pdb
+C:\Users\Piotr\source\repos\TestF\Sort\obj\Debug\netcoreapp2.0\Sort.fsprojResolveAssemblyReference.cache

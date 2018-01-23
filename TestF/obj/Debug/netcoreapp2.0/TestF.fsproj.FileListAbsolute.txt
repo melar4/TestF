@@ -1,0 +1,8 @@
+C:\Users\Piotr\source\repos\TestF\TestF\bin\Debug\netcoreapp2.0\TestF.deps.json
+C:\Users\Piotr\source\repos\TestF\TestF\bin\Debug\netcoreapp2.0\TestF.runtimeconfig.json
+C:\Users\Piotr\source\repos\TestF\TestF\bin\Debug\netcoreapp2.0\TestF.runtimeconfig.dev.json
+C:\Users\Piotr\source\repos\TestF\TestF\bin\Debug\netcoreapp2.0\TestF.dll
+C:\Users\Piotr\source\repos\TestF\TestF\bin\Debug\netcoreapp2.0\TestF.pdb
+C:\Users\Piotr\source\repos\TestF\TestF\obj\Debug\netcoreapp2.0\TestF.fsprojResolveAssemblyReference.cache
+C:\Users\Piotr\source\repos\TestF\TestF\obj\Debug\netcoreapp2.0\TestF.dll
+C:\Users\Piotr\source\repos\TestF\TestF\obj\Debug\netcoreapp2.0\TestF.pdb
