@@ -39,6 +39,7 @@ let main argv =
     let name = FirstLast("Piotr","op")
     printf "%A" p
     printf "%A" name
+    printf "%A" name  
     Console.ReadKey()|>ignore
     printfn "Hello World from F#!"
     0 // return an integer exit code
